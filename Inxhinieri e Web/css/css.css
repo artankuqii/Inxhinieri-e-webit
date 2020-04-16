@@ -1,0 +1,151 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    background-color: lightblue;
+  }
+  
+  .loginbox {
+  
+  margin-top: 180px;
+  margin-left: 38%;
+  
+  
+  
+  }
+  
+  .div-header {
+    text-align: right;
+    padding-right: 170px;
+  }
+  
+  
+  
+  
+  .fieldset {
+    border-radius: 10px;
+    width: 320px;
+    height: 270px;
+    background-color:	#72A0C1;
+    text-align: center;
+    padding-top: 15px;
+    border: 0px;
+  }
+  
+  
+  #contact {
+    display: inline;
+    text-decoration: none;
+    color: black;
+  
+  
+  }
+  
+  
+  #img {
+    max-width: 100px;
+    max-height: 100px;
+    margin: 5px;
+  }
+  
+  img:hover {
+    background-color: #244082;
+    border-radius: 10px;
+  }
+  
+  #h4 {
+  
+  color:red;
+  
+  }
+  li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .linkLogin {
+    text-decoration: none;
+    color: black;
+    border-left: 1.5px solid #E97451;
+    padding-left: 10px;
+    padding-right: 15px;
+  
+  
+  }
+  
+  .linkRegister {
+    text-decoration: none;
+    color: black;
+    border-left: 1.5px solid #E97451;
+    border-right: 1.5px solid #E97451;
+    padding-right: 7px;
+    padding-left: 10px;
+  
+  }
+  
+  
+  #usernameInput {
+  
+  border-radius: 10px;
+  border: 0px;
+  width: 170px;
+  height: 20px;
+  margin-top: 10px;
+  padding-left:6px;
+  font-size: 14;
+  background-color: lightgrey;
+  }
+  
+  
+  #usernameLi {
+  
+  margin-top: 20px;
+  padding-bottom: 10px;
+  
+  
+  }
+  
+  
+  #passwordInput {
+  
+  border-radius: 10px;
+  border: 0px;
+  width: 170px;
+  height: 20px;
+  margin-top: 10px;
+  padding-left: 6px;
+  font-size: 14;
+  background-color: lightgrey;
+  }
+  
+  
+  #passwordLi {
+  
+  margin-top: 20px;
+  padding-bottom: 10px;
+  
+  
+  }
+  
+  
+  #loginButton {
+    text-align: center;
+    border-radius: 10px;
+    border: 0px;
+    width: 70px;
+    height: 30px;
+    padding: 2px auto 2px auto;
+    margin-top: 20px;
+    background-color: lightgreen;
+  }
+  
+  
+  #footer {
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+  }
+  
